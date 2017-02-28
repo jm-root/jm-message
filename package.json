@@ -1,0 +1,36 @@
+{
+  "name": "jm-message",
+  "version": "0.0.2",
+  "description": "消息系统",
+  "main": "./lib/index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jm-root/jm-message.git"
+  },
+  "keywords": [
+    "javascript",
+    "jm-message"
+  ],
+  "author": {
+    "name": "Jeff YU"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jm-root/jm-message/issues"
+  },
+  "homepage": "https://github.com/jm-root/jm-message",
+  "dependencies": {
+    "nodejs-websocket": "*",
+    "jm-common": "*"
+  },
+  "devDependencies": {
+      "express": "*"
+  },
+  "readme": "jm-message",
+  "readmeFilename": "README.md",
+  "_id": "jm-message@0.0.1",
+  "_from": "jm-message@*"
+}
